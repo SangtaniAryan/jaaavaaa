@@ -26,7 +26,9 @@ class CheckEvenOdd
   }
 }
 
-Output :
+#OUTPUT :- 
+
+Output 1:
 Enter an Integer number:
 78
 Entered number is even
